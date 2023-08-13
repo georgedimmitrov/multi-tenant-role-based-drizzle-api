@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1691947115668,
+      "tag": "0000_amusing_adam_warlock",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1691947439273,
+      "tag": "0001_left_scarlet_spider",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1691947730836,
+      "tag": "0002_bright_harrier",
+      "breakpoints": false
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1691948102381,
+      "tag": "0003_fast_blonde_phantom",
+      "breakpoints": false
+    }
+  ]
+}
